@@ -2,7 +2,7 @@
 "TugasPBA"
 ---
 
-# Project Title: Multi-Model NLP Comparison with GRU, FastText, Transformer, and BERT
+# Multi-Model NLP Comparison with GRU, FastText, Transformer, and BERT
 
 ## Description
 This project compares four NLP models (GRU, FastText, Transformer, and BERT) for text classification tasks. It includes:
