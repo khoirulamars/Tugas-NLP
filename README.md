@@ -1,5 +1,5 @@
 ---
-"TugasPBA"
+"Tugas NLP"
 ---
 
 # Multi-Model NLP Comparison with GRU, FastText, Transformer, and BERT
